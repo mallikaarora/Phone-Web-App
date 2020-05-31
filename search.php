@@ -33,8 +33,7 @@ function filterTable($query)
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <body>
-        
-        <div id = "main">
+      <div id = "main">
   <h1> Phone Book</h1>
   
   <?php  include 'menu-main.php';?><br><br>
